@@ -1,5 +1,4 @@
 #include<iostream>
-#include <limits>
 
 #define DEFAULT_SIZE 0
 #define RESIZE_FACTOR 2
